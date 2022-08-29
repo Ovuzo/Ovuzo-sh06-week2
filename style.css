@@ -20,6 +20,9 @@
 .py{
     margin: 15px 0;
 }
+.pt{
+    margin-top: 150px;
+}
 .margin-container{
     width: 90%;
     margin: auto;
@@ -255,6 +258,7 @@ hr{
     width: 100%;
     border: solid #F1D5BB;
     margin: 20px 0;
+    padding: 0 16px;
 }
 .btn-apply-div{
     width: 100%;
