@@ -190,6 +190,21 @@ hr{
     background: url("./img/img1.png")no-repeat
     center center/cover;
 }
+.circle-img2{
+    border-radius: 50%;
+    background: url("./img/img2.png")no-repeat
+    center center/cover;
+}
+.circle-img3{
+    border-radius: 50%;
+    background: url("./img/img3.png")no-repeat
+    center center/cover;
+}
+.circle-img4{
+    border-radius: 50%;
+    background: url("./img/img4.png")no-repeat
+    center center/cover;
+}
 .main-menu-cart{
 }
 .sub-order{
