@@ -8,6 +8,9 @@
 .px{
     padding: 0 100px 0 100px;
 }
+.px1{
+    padding:0 20px ;
+}
 .px-left{
     padding: 0 0 0 20px;
 }
@@ -15,7 +18,7 @@
     margin: 0 0 0 20px;
 }
 .py{
-    margin: 40px 0;
+    margin: 15px 0;
 }
 .margin-container{
     width: 90%;
@@ -95,7 +98,7 @@ justify-content: center;
 }
 .menu-box{
     width: 100%;
-    height: 122px;
+    height: 100px;
     display: grid;
     margin: 0 0 10px 0;
     align-items: center;
@@ -130,7 +133,7 @@ hr{
     margin: auto;
     padding:  32px 0;
     display: grid;
-    grid-template-columns: 10% 50% 30%;
+    grid-template-columns:8% 52% 30%;
     gap: 0 20px;
     justify-content: center;
 }
@@ -138,7 +141,6 @@ hr{
 .side-menu{
     display: block;
     background-color:#000000;
-    padding: 20px 0;
     border-radius: 12px;
     height: fit-content
 }
@@ -166,6 +168,7 @@ hr{
     display: grid;
     gap: 20px 10px;
     background: #F1D5BB;
+    padding: 20px 10px;
     
 }
 .cart-order{
@@ -185,11 +188,10 @@ hr{
     center center/cover;
 }
 .main-menu-cart{
-    
 }
 .sub-order{
-    margin-top: 120px;
-    height: 75vh;
+    margin-top: 70px;
+    height: 83vh;
 }
 .sub-txt p{
     font-size: 24px;
@@ -216,11 +218,24 @@ hr{
     margin: 0 5px;
     background: #ffffff;
 }
+.btn-confirm{
+    padding: 20px 30px;
+    background: #000000;
+    color: #ffffff;
+}
+.btn-div{
+    width: 100%;
+    height: 10px;
+    background: #ffffff;
+}
 .sub-order-1{
     width: 100%;
     height: 50%;
     background: #F1D5BB;
     color: #000000;
+    padding: 30px;
+    display: flex;
+    flex-direction:column;
 }
 .sub-order-2{
     width: 100%;
